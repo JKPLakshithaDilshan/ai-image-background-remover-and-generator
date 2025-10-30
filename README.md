@@ -12,7 +12,7 @@ Built with React and TypeScript.
 
 ## 📸 Screenshots
 
-<img src="./Sample Images/sample.jpg" width="100%" alt="Dashboard" />
+<img src="Sample Images/sample.jpg" width="100%" alt="Dashboard" />
 
 ## 🚀 Tech Stack
 
