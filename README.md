@@ -12,7 +12,7 @@ Built with React and TypeScript.
 
 ## 📸 Screenshots
 
-<img src="Sample Images/sample.jpg" width="100%" alt="Dashboard" />
+<img src="./Sample Images/sample.jpg" width="100%" alt="Dashboard" />
 
 ## 🚀 Tech Stack
 
@@ -39,7 +39,6 @@ Built with React and TypeScript.
    ```bash
    npm run dev
    ```
-   The app will be available at [http://localhost:5173](http://localhost:5173).
 
 ## 🧩 Folder Structure
 
