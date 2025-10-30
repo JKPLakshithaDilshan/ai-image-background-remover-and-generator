@@ -12,10 +12,7 @@ Built with React and TypeScript.
 
 ## 📸 Screenshots
 
-<!--
-Add screenshots or demo GIFs here:
-![Screenshot](./screenshot.png)
--->
+<img src="./Sample Images/sample.png" width="100%" alt="Dashboard" />
 
 ## 🚀 Tech Stack
 
@@ -26,7 +23,7 @@ Add screenshots or demo GIFs here:
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ai-image-background-remover-and-generator.git
+   git clone https://github.com/JKPLakshithaDilshan/ai-image-background-remover-and-generator.git
    cd ai-image-background-remover-and-generator
    ```
 
@@ -64,14 +61,15 @@ Add screenshots or demo GIFs here:
 └── vite.config.ts
 ```
 
-## 🙌 Contributing
+## 📜 License
+This project is for academic purposes only. All rights reserved to the authors.
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+## 📬 Contact
+Have questions? Reach out via:
 
-## 📄 License
+GitHub: https://github.com/JKPLakshithaDilshan
 
-[MIT](LICENSE)  
-&copy; 2025 Your Name
+Email: lakshithadilshan.info@gmail.com
 
 ---
 
